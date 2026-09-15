@@ -1,0 +1,8 @@
+*/
+!docs/
+docs/*
+!docs/usage/
+docs/usage/*
+!docs/usage/providers/
+config.bat
+node_modules
